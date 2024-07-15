@@ -1,0 +1,14 @@
+#container {
+    width: 16em;
+    height: 16em;
+    background-color: lightgray;
+}
+
+.row {
+   background-color: lightgray;
+   display: flex;
+}
+
+.row > div {
+    background-color: black;
+}
